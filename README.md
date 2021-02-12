@@ -1,6 +1,7 @@
 # todoList
 
 <img width="400"  src="https://user-images.githubusercontent.com/47317129/103032589-c3afdb80-45a3-11eb-9f78-ca577127f29c.PNG" style="display: block" >
+
 ## Inspiration
 
 순수 HTML, CSS, JavaScript, MySQL로만 코딩하다가 Node.js, MongoDB를 공부할 목적으로 만든 간단한 앱입니다.
